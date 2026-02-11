@@ -6,7 +6,7 @@ LibreSD is a fast, minimal-footprint SD card driver and FAT filesystem library w
 
 ## Features
 
-- **Fast** - Optimized for speed with DMA-friendly bulk transfers
+- **Fast** - Optimised for speed with DMA-friendly bulk transfers
 - **Minimal footprint** - ~15-20KB flash for core functionality
 - **Pure C** - Works with any compiler, any MCU
 - **Full SD support** - SD v1, v2, SDHC, SDXC
@@ -245,6 +245,12 @@ Contributions welcome! Please submit issues and pull requests.
 - SD Card Physical Layer Simplified Specification
 - Microsoft FAT32 File System Specification
 - ChaN's FatFs (inspiration for API design)
+
+## AI Usage Declaration
+
+- Claude Opus 4.5 (Extended Thinking mode) was used extensively in making the LibreSD Library. This project is a mini side-quest I am working on to enable my own personal projects and areas of focus.
+- Philosophies, base, and the functions provided by this Library, API methods are all developed independently of AI, with heavy inspiration as mentioned in Acknowledgements.
+- Created openly with the help of AI to make a library to drive and support my own projects further.
 
 ## Why? 
 - Because god is speaking to me, I'm going insane with using SD, and I need to make, the craving is all consuming.
